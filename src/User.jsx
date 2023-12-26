@@ -1,0 +1,123 @@
+export const User = [
+    {
+      id: 1,
+      name: {
+        firstname: "Johnbhert Clint",
+        lastname: "Magalona",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "Clintoyy",
+      password: "101702",
+      usertype: "Student",
+    },
+    {
+      id: 2,
+      name: {
+        firstname: "Jason",
+        lastname: "Aboy",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "Sonson",
+      password: "123456",
+      usertype: "Student",
+    },
+    {
+      id: 3,
+      name: {
+        firstname: "Clarence Jhon",
+        lastname: "Quijano",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "Rence",
+      password: "234567",
+      usertype: "Student",
+    },
+    {
+      id: 4,
+      name: {
+        firstname: "Mark Gideon",
+        lastname: "Fudolig",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "Gids",
+      password: "345678",
+      usertype: "Student",
+    },
+    {
+      id: 5,
+      name: {
+        firstname: "Jovert",
+        lastname: "Davirao",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "Vert",
+      password: "456789",
+      usertype: "Student",
+    },
+    {
+      id: 6,
+      name: {
+        firstname: "Rogel",
+        lastname: "Garcia",
+      },
+      course: "BSIT",
+      yearsection: "3B",
+      username: "Rojel",
+      password: "567890",
+      usertype: "Student",
+    },
+    {
+      id: 7,
+      name: {
+        firstname: "Jerry",
+        lastname: "Ale",
+      },
+      course: "",
+      yearsection: "",
+      username: "Jerry",
+      password: "098765",
+      usertype: "Teacher",
+    },
+    {
+      id: 8,
+      name: {
+        firstname: "Winzeal",
+        lastname: "Agoc",
+      },
+      course: "",
+      yearsection: "",
+      username: "Weng",
+      password: "987654",
+      usertype: "Teacher",
+    },
+    {
+      id: 9,
+      name: {
+        firstname: "Christine Leah",
+        lastname: "Gabo",
+      },
+      course: "",
+      yearsection: "",
+      username: "Gabs",
+      password: "876543",
+      usertype: "Teacher",
+    },
+    {
+      id: 10,
+      name: {
+        firstname: "Gabrene",
+        lastname: "Diaz",
+      },
+      course: "",
+      yearsection: "",
+      username: "Diaz",
+      password: "765432",
+      usertype: "Teacher",
+    },
+    
+  ];
